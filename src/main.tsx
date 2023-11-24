@@ -3,8 +3,8 @@ import { CssBaseline, ThemeProvider } from '@mui/material';
 import { BrowserRouter } from 'react-router-dom';
 import { LocalizationProvider } from '@mui/x-date-pickers';
 import { AdapterDayjs } from '@mui/x-date-pickers/AdapterDayjs';
-import App from './App.tsx';
 import theme from '@/myTheme.ts';
+import App from './App.tsx';
 import './styles.scss';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(

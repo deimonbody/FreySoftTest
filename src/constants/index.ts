@@ -13,12 +13,12 @@ export const footerItems = [
   {
     id: '1',
     Icon: HomeIcon,
-    path: ROUTES.CARDS_PAGE,
+    path: ROUTES.HOME,
   },
   {
     id: '2',
     Icon: CreditCardIcon,
-    path: ROUTES.CALENDAR_PAGE,
+    path: ROUTES.EXPENSES_PAGE,
   },
   {
     id: '3',

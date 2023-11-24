@@ -1,4 +1,4 @@
 export enum ROUTES {
   HOME = '/',
-  CALENDAR_PAGE = '/calendar',
+  EXPENSES_PAGE = '/expenses',
 }

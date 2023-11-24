@@ -1,7 +1,7 @@
 import React from 'react';
 import Footer from '@/components/modules/Footer';
-import { MainLayoutStyled, Wrapper } from './styles';
 import Header from '@/components/modules/Header';
+import { MainLayoutStyled, Wrapper } from './styles';
 
 interface IProps {
   children: JSX.Element | JSX.Element[];

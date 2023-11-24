@@ -1,8 +1,8 @@
 import { Stack } from '@mui/material';
 import React from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
-import { FooterWrapper, FooterItem } from './styles';
 import { footerItems } from '@/constants';
+import { FooterWrapper, FooterItem } from './styles';
 
 const Footer: React.FC = () => {
   const navigate = useNavigate();

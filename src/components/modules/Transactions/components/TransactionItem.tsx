@@ -1,8 +1,8 @@
 import React from 'react';
 import { Stack } from '@mui/material';
-import { TransactionItemImg, TransactionItemPrice, TransactionItemTitle, TransactionItemWrapper } from '../styles';
 import { ITransaction } from '@/types/interfaces';
 import { BlockSmallText } from '@/components/styles';
+import { TransactionItemImg, TransactionItemPrice, TransactionItemTitle, TransactionItemWrapper } from '../styles';
 
 interface IProps {
   transaction: ITransaction;
