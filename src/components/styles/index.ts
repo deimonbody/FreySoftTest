@@ -1,4 +1,5 @@
 import { BlockSmallText, BlockTitle } from '@/components/styles/common.styles';
+import { CustomCalendar } from '@/components/styles/expenses.styles';
 import { CardBalance, CardTitle, CardWrapper, CardNumber, MasterCardStyles, StyledDatePicker } from './home.styles';
 
 export {
@@ -10,4 +11,5 @@ export {
   StyledDatePicker,
   BlockTitle,
   BlockSmallText,
+  CustomCalendar,
 };

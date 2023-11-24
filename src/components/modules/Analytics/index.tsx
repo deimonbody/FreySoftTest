@@ -1,9 +1,9 @@
 import React from 'react';
 import { Stack } from '@mui/material';
 
+import { BlockTitle } from '@/components/styles';
 import DatePicker from './components/DatePicker';
 import Charts from './components/Charts';
-import { BlockTitle } from '@/components/styles';
 
 const Analytics: React.FC = () => {
   return (

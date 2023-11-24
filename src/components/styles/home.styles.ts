@@ -38,7 +38,7 @@ export const MasterCardStyles = styled('div')(() => ({
 
 export const StyledDatePicker = styled(DatePicker)(({ theme }) => ({
   '& .MuiInputBase-root': {
-    width: '80px',
+    width: '120px',
     borderRadius: '12px',
     color: '#fff',
     backgroundColor: theme.palette.primary.main,

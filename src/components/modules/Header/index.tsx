@@ -1,8 +1,8 @@
 import { Stack } from '@mui/material';
 import React from 'react';
 import NotificationsNoneIcon from '@mui/icons-material/NotificationsNone';
-import { Notification, UserAvatar, PageName } from './styles';
 import userAvatar from '@/assets/images/userAvatar.png';
+import { Notification, UserAvatar, PageName } from './styles';
 
 interface IProps {
   pageTitle: string;
